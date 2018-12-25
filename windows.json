@@ -3,10 +3,49 @@
     "windows": [
     
     {
-    "name":"Windows Section here",
-    "description":""
-    }
+    "name":"CleanMyPC - Essential PC cleaning software",
+    "description":"https://macpaw.com/cleanmypc"
+    },
+
+    {
+    "name":"GlassWire - Network Monitor and Firewall",
+    "description":"https://www.glasswire.com/download/"
+    },
     
+    {
+    "name":"Everything Search Engine - keeps a database of all the files",
+    "description":"https://www.voidtools.com/downloads/"
+    },
+
+    {
+    "name":"TreeSize - find space hogs on your hard disk",
+    "description":"https://www.jam-software.com/treesize/"
+    },
+
+    {
+    "name":"ShareX - free screenshot capture, screen recorder, file sharing",
+    "description":"https://getsharex.com"
+    },
+
+    {
+    "name":"Breevy - text expander for Windows",
+    "description":"http://www.16software.com/breevy/"
+    },
+
+    {
+    "name":"SharpKeys - maps one key on your keyboard to another",
+    "description":"https://archive.codeplex.com/?p=sharpkeys"
+    },
+
+    {
+    "name":"Chocolatey - free command-line software manager",
+    "description":"https://chocolatey.org/install"
+    },
+
+    {
+    "name":"Autoruns - startup process monitoring utility",
+    "description":"https://download.sysinternals.com/files/Autoruns.zip"
+    }
     
     ]
     }

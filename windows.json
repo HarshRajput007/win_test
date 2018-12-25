@@ -45,6 +45,21 @@
     {
     "name":"Autoruns - startup process monitoring utility",
     "description":"https://download.sysinternals.com/files/Autoruns.zip"
+    },
+
+    {
+    "name":"Quick Access Popup - free tool that lets you add applications, folders, websites, and more",
+    "description":"https://www.quickaccesspopup.com/#download"
+    },
+
+    {
+    "name":"FileMenu Tools - adds a customizable context menu to Windows Explorer",
+    "description":"https://www.lopesoft.com/index.php/en/download/filemenu-tools"
+    },
+
+    {
+    "name":"Rambox - a single place for a lot of online accounts",
+    "description":"https://rambox.pro/#home"
     }
     
     ]

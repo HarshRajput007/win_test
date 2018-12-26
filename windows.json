@@ -60,6 +60,31 @@
     {
     "name":"Rambox - a single place for a lot of online accounts",
     "description":"https://rambox.pro/#home"
+    },
+
+    {
+    "name":"WSUS Offline - lets you download all the files required for updating Windows at once",
+    "description":"http://download.wsusoffline.net"
+    },
+
+    {
+    "name":"AES Crypt - easy-to-use file encryption software",
+    "description":"https://www.aescrypt.com/download/"
+    },
+
+    {
+    "name":"Ditto Clipboard Manager - free clipboard manager application",
+    "description":"https://sourceforge.net/projects/ditto-cp/files/Ditto/3.21.50.0/"
+    },
+
+    {
+    "name":"Patch My PC - keeps over 100 programs up-to-date",
+    "description":"https://patchmypc.com/home-updater-download"
+    },
+
+    {
+    "name":"Input Director - enables the control of multiple Windows systems using the keyboard/mouse",
+    "description":"http://www.inputdirector.com/downloads.html"
     }
     
     ]

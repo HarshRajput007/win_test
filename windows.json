@@ -3,78 +3,8 @@
     "windows": [
     
     {
-    "name":"Everything Search Engine - keeps a database of all the files",
-    "description":"http://bit.ly/EverythingSearchEngine"
-    },
-
-    {
-    "name":"TreeSize - find space hogs on your hard disk",
-    "description":"http://bit.ly/TreeSizeSpace"
-    },
-
-    {
-    "name":"ShareX - free screenshot capture, screen recorder, file sharing",
-    "description":"http://bit.ly/ShareXFreeScreenshotCapture"
-    },
-
-    {
-    "name":"Breevy - text expander for Windows",
-    "description":"http://bit.ly/BreevyTextExpander"
-    },
-
-    {
-    "name":"SharpKeys - maps one key on your keyboard to another",
-    "description":"http://bit.ly/SharpKeys"
-    },
-
-    {
-    "name":"Chocolatey - free command-line software manager",
-    "description":"http://bit.ly/ChocolateyFreeCommandLine"
-    },
-
-    {
-    "name":"Autoruns - startup process monitoring utility",
-    "description":"http://bit.ly/AutorunsStartupProcessMonitoring"
-    },
-
-    {
-    "name":"Quick Access Popup - free tool that lets you add applications, folders, websites, and more",
-    "description":"http://bit.ly/QuickAccessPopup"
-    },
-
-    {
-    "name":"FileMenu Tools - adds a customizable context menu to Windows Explorer",
-    "description":"http://bit.ly/FileMenu"
-    },
-
-    {
-    "name":"Rambox - a single place for a lot of online accounts",
-    "description":"http://bit.ly/Rambox"
-    },
-
-    {
-    "name":"WSUS Offline - lets you download all the files required for updating Windows at once",
-    "description":"http://bit.ly/WSUSOfflineUpdate"
-    },
-
-    {
-    "name":"AES Crypt - easy-to-use file encryption software",
-    "description":"http://bit.ly/AESCryptDownloads"
-    },
-
-    {
-    "name":"Ditto Clipboard Manager - free clipboard manager application",
-    "description":"http://bit.ly/dittoclipboard"
-    },
-
-    {
-    "name":"Patch My PC - keeps over 100 programs up-to-date",
-    "description":"http://bit.ly/PatchMyPC"
-    },
-
-    {
-    "name":"Input Director - enables the control of multiple Windows systems using the keyboard/mouse",
-    "description":"http://bit.ly/InputDirector"
+    "name":"Windows Section!!",
+    "description":""
     }
     
     ]

@@ -3,10 +3,24 @@
     "windows": [
 
     {
-    "name":"This is Windows Section!!",
-    "description":"This is Windows Description",
-    "image":"",
-    "url":""
+    "name":"TreeSize - Find space hogs on your Hard Disk and Junk Cleaner!!",
+    "description":"Even in the times of cheap terabytes a final truth remains: Sooner or later every hard disk will near capacity. But there is help! TreeSize Free tells you where precious disk space has gone. Use the treemap to keep an eye on your disk space. Besides German and English, TreeSize Free can be installed in Chinese, Czech etc",
+    "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv66lIc824uJhqAHa22cdWufxWz19_PPML0aEaWuQQsyUIiA_y",
+    "url":"https://hackalpha.blogspot.com/2019/02/treesize-find-space-hogs-on-your-hard.html"
+    },
+
+    {
+    "name":"Ditto Clipboard Manager - free clipboard manager application!!",
+    "description":"Ditto is an extension to the standard windows clipboard. It saves each item placed on the clipboard allowing you access to any of those items at a later time.",
+    "image":"https://dl1.cbsistatic.com/i/2018/01/03/0a2a7efd-1e74-472d-be67-e65824756b2a/f301988b58996b29f8a2b93c6a172aaf/imgingest-7381105106030730440.png",
+    "url":"https://hackalpha.blogspot.com/2019/02/ditto-clipboard-manager-free-clipboard.html"
+    },
+
+    {
+    "name":"Input Director - Enables the control of multiple Windows systems using the keyboard/mouse!!",
+    "description":"Input Director enables the control of multiple Windows systems using the keyboard/mouse attached to one computer. Switch control between systems either by hot key or by moving the cursor to the screen edge on one computer for it to appear on the next one. Input Director supports a shared clipboard",
+    "image":"https://www.inputdirector.com/images/diagram-600pix-wide.jpg",
+    "url":"https://hackalpha.blogspot.com/2019/02/input-director-enables-control-of.html"
     }
     
     ]

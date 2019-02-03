@@ -3,6 +3,13 @@
     "windows": [
 
     {
+    "name":"ShareX - Free screenshot capture, screen recorder, file sharing!!",
+    "description":"ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to over 80 supported destinations you can choose from",
+    "image":"https://store-images.s-microsoft.com/image/apps.48570.13510798887692934.c184c40e-9bd1-4456-97e3-41e7901f5c73.c21a627b-b6d2-49a1-815a-86ced6e3b9fe?mode=scale&q=90&h=300&w=300",
+    "url":"https://hackalpha.blogspot.com/2019/02/sharex-free-screen-shot-capture-screen.html"
+    },
+
+    {
     "name":"TreeSize - Find space hogs on your Hard Disk and Junk Cleaner!!",
     "description":"Even in the times of cheap terabytes a final truth remains: Sooner or later every hard disk will near capacity. But there is help! TreeSize Free tells you where precious disk space has gone. Use the treemap to keep an eye on your disk space. Besides German and English, TreeSize Free can be installed in Chinese, Czech etc",
     "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv66lIc824uJhqAHa22cdWufxWz19_PPML0aEaWuQQsyUIiA_y",

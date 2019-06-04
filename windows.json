@@ -1,13 +1,11 @@
 {
-    "error":false,
-    "windows": [
-
+  "error": false,
+  "windows": [
     {
-    "name":"This is Windows Section!!",
-    "description":"Hey its a Description",
-    "image":"https://www.pcma.org/wp-content/uploads/2018/11/Trendspotter-Event-Tech-Trend-Banner-818x460.jpg",
-    "date":"Today"
+      "name": "This is Windows Section!!",
+      "description": "Here all the Articles will be posted related to the Windows!",
+      "image": "https://cdn.images.express.co.uk/img/dynamic/galleries/x701/144767.jpg",
+      "date": "Today"
     }
-    
-    ]
-    }
+  ]
+}
